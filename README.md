@@ -15,8 +15,8 @@ To get the backend server running locally, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone [URL to your repository]
-cd [repository name]
+git clone https://github.com/Takour01/SEAAL_test_backend.git
+cd SEAAL_test_backend
 ```
 
 ### 2. Install Dependencies
